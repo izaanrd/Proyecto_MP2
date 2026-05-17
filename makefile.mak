@@ -5,7 +5,7 @@ CC = g++
 CFLAGS = -c -Wall
 
 # Archivos objeto
-OBJ = main_MP_Proyecto_Fase1.o \
+OBJ = main_MP_Proyecto_Fase2.o \
 Atleta.o \
 Atletas.o \
 Club.o \
